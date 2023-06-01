@@ -20,5 +20,5 @@ export UNITYENGINE_DLL_ROOT='\Applications\Unity\Hub\Editor\2022.3.0f1\Unity.app
 
 ```bash
 cd FSharp
-dotnet watch build
+dotnet watch publish
 ```
