@@ -1,6 +1,6 @@
 # F# Unity Template
 
-The experimental game template with F#.
+An experimental game template with F#.
 
 ## Pre-requisites
 
